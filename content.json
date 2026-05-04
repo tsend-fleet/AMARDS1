@@ -1783,10 +1783,10 @@
     }
   },
   "animations": {
-    "hero": "stagger-fade",
-    "stats": "fade-up",
+    "hero": "scramble-reveal",
+    "stats": "flip-up",
     "trust": "fade-up",
-    "services": "fade-up",
+    "services": "flip-down",
     "howItWorks": "fade-up",
     "about": "fade-right",
     "reviews": "fade-up",
