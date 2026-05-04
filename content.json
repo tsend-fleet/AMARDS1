@@ -1833,5 +1833,9 @@
       "es"
     ]
   },
-  "elementStyles": {}
+  "elementStyles": {
+    "brand": {
+      "color": "#000000"
+    }
+  }
 }
